@@ -1,0 +1,21 @@
+{
+    "name": "aysla/sistema-restaurante",
+    "authors": [
+        {
+            "name": "Ayslan",
+            "email": "ayslan@assesi.com"
+        }
+    ],
+    "require": {
+        "league/plates": "^3.5",
+        "symfony/var-dumper": "^6.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\" : "app"
+        },
+        "files": [
+            
+        ]
+    }
+}
